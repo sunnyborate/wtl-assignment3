@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="employees.xsl"?>
+
+<!DOCTYPE employees SYSTEM "employees.dtd">
+
+<employees>
+    
+    <employee id="E001">
+        <name>John Doe</name>
+        <department>Engineering</department>
+        <designation>Software Developer</designation>
+        <salary>85000</salary>
+    </employee>
+
+    <employee id="E002">
+        <name>Jane Smith</name>
+        <department>Human Resources</department>
+        <designation>HR Manager</designation>
+        <salary>75000</salary>
+    </employee>
+
+    <employee id="E003">
+        <name>Michael Scott</name>
+        <department>Management</department>
+        <designation>Regional Manager</designation>
+        <salary>95000</salary>
+    </employee>
+
+    <employee id="E004">
+        <name>Brian Griffin</name>
+        <department>Design</department>
+        <designation>Creatives Manager</designation>
+        <salary>85000</salary>
+    </employee>
+
+</employees>
